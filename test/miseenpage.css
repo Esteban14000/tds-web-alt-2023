@@ -1,18 +1,27 @@
 	.wrap{
 
-    background: linear-gradient(to right, rgb(34, 73, 243),rgba(84,169,208,255)); 
+    background: linear-gradient(to right, rgb(0, 4, 255),rgba(84,169,208,255)); 
     text-align: left;
     font-size: 20px;
-    padding : 20px 450px;
+    padding : 40px 30px;
     color: #ffffff;
 }   
 
 .sunday{
 
-    background: linear-gradient(to left, rgb(34, 73, 243),rgba(84,169,208,255)); 
+    background: linear-gradient(to left, rgb(43, 160, 196),rgba(84,169,208,255)); 
     text-align: right;
     font-size: 20px;
-    padding : 20px 450px;
+    padding : 40px 30px;
     color: #ffffff;
 
+}
+
+.soda{
+
+    background-color: #ff0a0a;
+    color:black;
+    font-size: 40px;
+    text-align: center
+    
 }
